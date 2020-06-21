@@ -1,0 +1,46 @@
+
+img{
+  margin: 0% 30%;
+}
+.body{
+  border: 50px solid #1c1605;
+  border-top: 0px;
+  margin: 0% 0%;
+  background-color: #f2d177;
+}
+h1,h3{
+  text-align: center;
+  font-family: 'Itim', cursive;
+}
+
+h2{
+  text-align: center;
+  font-family: Itim, 'cursive';
+}
+
+p{
+  margin: 0px 150px 0px;
+  text-align: center;
+  justify-content: center;
+  font-family: 'Niconne', cursive;
+  font-size: 1em;
+}
+
+.login{
+  text-align: center;
+}
+
+.abc{
+  color: #400761;
+  font-family: Itim, 'cursive';
+}
+#fname{
+  width: 250px;
+}
+#submit{
+  height: 50px;
+  width: 100px;
+  background-color: #f5ac1b;
+  border: 1px solid yellow;
+  border-radius: 25px;
+}
