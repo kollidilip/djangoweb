@@ -4,12 +4,10 @@ while (i <= n) {
     // check for even numbers
     if (i === 0) {
       console.log(i +" is neither even nor odd number");
-      i++
     }else if (i % 2 == 0) {
       console.log(i +" is even number");
-      i++;
     }else {
-      console.log(i +" is odd number");
-      i++;
+      console.log(i +" is odd number");      
     }
+    i++;
 }
