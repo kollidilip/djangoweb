@@ -1,0 +1,18 @@
+img{
+  align-content: center;
+  height: 30%;
+  width: 50%;
+  margin-left: 25%;
+}
+p,ol{
+  margin-left: 20%;
+}
+h1{
+  text-align: center;
+}
+.div1{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(100, 100, 100);
+  color: rgb(255,255,255);
+}
