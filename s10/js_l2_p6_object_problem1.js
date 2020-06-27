@@ -19,3 +19,4 @@ alert("name is : "+empObj["name"])
 alert("age is : "+empObj["age"])
 alert("Job is : "+empObj["job"])
 empObj.lastName()
+  
