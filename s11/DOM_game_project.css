@@ -1,0 +1,27 @@
+.jumbotron{
+  background-color: #FFEBCD;
+}
+.container{
+  border-color: 'balck';
+}
+.lead{
+  color: #8A2BE2;
+  text-align: center;
+  font-weight: bolder;
+}
+button{
+  margin-left: 45%;
+}
+#r0,#r2{
+    background-color: LightGray;
+}
+td{
+  border: 2px solid black;
+  width: 5em;
+  height: 5em;
+  text-align: center;
+  font-variant: small-caps;
+  }
+table{
+  margin: auto;
+}
