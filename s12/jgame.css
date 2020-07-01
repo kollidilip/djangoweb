@@ -1,7 +1,9 @@
-button{
+.button,input{
   background-color: rgb(128, 128, 128);
   height: 100px;
   width: 100px;
+  border: 1px solid black;
+  border-radius: 50%;
 }
 
 h1,h2,h3{
