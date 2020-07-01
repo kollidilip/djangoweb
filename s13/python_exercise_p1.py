@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[12]:
+
+
 #####################################
 #### PART 6: EXERCISE REVIEW  #######
 #####################################
@@ -24,6 +30,11 @@ print(s[1:4])
 print(s[-2:])
 # Bonus: Use indexing to reverse the string
 print(s[5::-1])
+
+
+# In[18]:
+
+
 ###############
 ## Problem 2 ##
 ###############
@@ -34,6 +45,10 @@ l = [3,7,[1,4,'hello']]
 l[2][2] = "goodbye"
 print(l)
 print(l[2][2])
+
+
+# In[29]:
+
 
 ###############
 ## Problem 3 ##
@@ -48,6 +63,10 @@ print(d2['k1']['k2'])
 d3 = {'k1':[{'nest_key':['this is deep',['hello']]}]}
 print(d3['k1'][0]['nest_key'][1])
 
+
+# In[36]:
+
+
 ###############
 ## Problem 4 ##
 ###############
@@ -56,6 +75,11 @@ print(d3['k1'][0]['nest_key'][1])
 mylist = [1,1,1,1,1,2,2,2,2,3,3,3,3]
 x  = set(mylist);
 print(x);
+
+
+# In[38]:
+
+
 
 ###############
 ## Problem 5 ##
@@ -68,3 +92,10 @@ name = "Sammy"
 # Use print formatting to print the following string:
 #"Hello my dog's name is Sammy and he is 4 years old"
 print("Hello my dog name is {} and he is {} yers old ".format(name,age))
+
+
+# In[ ]:
+
+
+
+
